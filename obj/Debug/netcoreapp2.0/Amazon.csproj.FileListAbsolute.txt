@@ -1,0 +1,33 @@
+C:\Users\Tecsup\Downloads\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.csprojAssemblyReference.cache
+C:\Users\Tecsup\Downloads\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Downloads\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Downloads\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.AssemblyInfo.cs
+C:\Users\Tecsup\Downloads\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.deps.json
+C:\Users\Tecsup\Downloads\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.runtimeconfig.json
+C:\Users\Tecsup\Downloads\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.runtimeconfig.dev.json
+C:\Users\Tecsup\Downloads\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.dll
+C:\Users\Tecsup\Downloads\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.pdb
+C:\Users\Tecsup\Downloads\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.dll
+C:\Users\Tecsup\Downloads\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.pdb
+E:\CodiGo-2018\Back End\Semana 9\Dia 1\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.deps.json
+E:\CodiGo-2018\Back End\Semana 9\Dia 1\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.runtimeconfig.json
+E:\CodiGo-2018\Back End\Semana 9\Dia 1\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.runtimeconfig.dev.json
+E:\CodiGo-2018\Back End\Semana 9\Dia 1\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.dll
+E:\CodiGo-2018\Back End\Semana 9\Dia 1\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.pdb
+E:\CodiGo-2018\Back End\Semana 9\Dia 1\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.csprojAssemblyReference.cache
+E:\CodiGo-2018\Back End\Semana 9\Dia 1\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.csproj.CoreCompileInputs.cache
+E:\CodiGo-2018\Back End\Semana 9\Dia 1\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.AssemblyInfoInputs.cache
+E:\CodiGo-2018\Back End\Semana 9\Dia 1\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.AssemblyInfo.cs
+E:\CodiGo-2018\Back End\Semana 9\Dia 1\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.dll
+E:\CodiGo-2018\Back End\Semana 9\Dia 1\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.pdb
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.dll
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.pdb
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.deps.json
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.runtimeconfig.json
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.runtimeconfig.dev.json
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.dll
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.pdb
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.csprojAssemblyReference.cache
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.csproj.CoreCompileInputs.cache
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.AssemblyInfoInputs.cache
+D:\CodiGo Semanal TECSUP\TECSUP\BACK-END\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.AssemblyInfo.cs

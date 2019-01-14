@@ -1,0 +1,28 @@
+﻿@model BooksListViewModel
+@{
+    ViewData["Title"] = ".:: Amazon ::.";
+}
+<div class="text-center">
+    <h3>Bienvenido a AMAZON, tu tienda virtual de libros.</h3>
+    <h4>
+        Los libros no estan muriendo solo se estan volviendo digitales
+    </h4>
+    <a class="btn btn-primary" asp-action="RegBookForm">Registrar un Libro ahora</a>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        @foreach (Amazon.Models.Book book in Model.Books)
+        {
+        <div class="col-sm-3">
+            @Html.Partial("ProductSummary", book)
+        </div>
+                
+        }
+    </div>
+    <div page-model="@Model.PagingInfo" page-action="List" page-classes-enabled="true"
+         page-class="btn" page-class-normal="btn-secondary"
+         page-class-selected="btn-primary" class="btn-group pull-right m-1">
+    </div>
+</div>
+
+
